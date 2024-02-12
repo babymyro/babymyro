@@ -1,12 +1,19 @@
-import React from "react";
+import React, {useEffect} from "react";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 import Image from "/src/assets/images/intro_picture.png";
 import Bone from "/src/assets/images/bone.svg";
 import DescImg from "/src/assets/images/micro_hero_desc_img.png";
 import GoTo from "/src/assets/images/go_to.svg";
 
 const Intro = () => {
+
+    useEffect(() => {
+        AOS.init();
+      }, [])
+
   return (
-    <div className="flex flex-col realtive mt-[235px] mb-[419px]">
+    <div className="flex flex-col realtive mt-[235px] mb-[419px]"  >
       {/* ------- Hero Section Image at Left ------ */}
       <img
         src={Image}
@@ -14,7 +21,7 @@ const Intro = () => {
       />
 
       {/* ------- Intro Description at Right side ------ */}
-      <div className="flex flex-col items-start justify-center font-custom ">
+      <div className="flex flex-col items-start justify-center font-custom " data-aos="zoom-in">
         <div className="flex justify-start items-center gap-[30px]">
           <div className="text-[72px] font-[700]">Welcome to</div>
           <div>
@@ -29,7 +36,7 @@ const Intro = () => {
       </div>
 
       {/* ------------ Buttons --------- */}
-      <div className="font-custom font-[500] text-[20px] flex gap-[20px] mt-[30px]">
+      <div className="font-custom font-[500] text-[20px] flex gap-[20px] mt-[30px]" data-aos="zoom-in">
         <a href="https://jup.ag/swap/SOL-HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4" target="_blank" className="bg-white py-[12px] px-[20px] text-black rounded-3xl">
             <span className="flex gap-[10px] items-center justify-center">Buy on Jupiter <img src={GoTo}/></span> 
         </a>

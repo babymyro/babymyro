@@ -15,7 +15,7 @@ const Why = () => {
       data-aos="zoom-in"
       className="w-full flex flex-col justify-center items-center lg:items-start gap-[50px] font-custom mb-[150px] px-[15px] lg:px-0"
     >
-      <div className="text-[40px] lg:text-[72px] font-[700]">Why choose $BABYMYROv ?</div>
+      <div className="text-[40px] lg:text-[72px] font-[700]">Why choose $BABYMYRO ?</div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-[20px] font-[400]">
         <div className="flex flex-col justify-center items-center lg:justify-start lg:items-start gap-[10px]">
           <div>

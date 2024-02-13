@@ -26,7 +26,17 @@ const Jupiter = () => {
       </div>
       <div className="min-w-[400px]">
         {/* <img src={Image} /> */}
-        <JupiterWallet />
+        {/* <JupiterWallet /> */}
+     
+
+        <iframe
+        width="400"
+        height="600"
+        className="rounded-2xl"
+        src="https://jup.ag/swap/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v-HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4?inAmount"
+      ></iframe>
+
+
       </div>
     </div>
   );

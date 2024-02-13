@@ -22,12 +22,12 @@ const Footer = () => {
         </div>
       </div>
       <br />
-      <div className="flex gap-[32px] mb-[30px]">
+      <div className="flex gap-[32px] mb-[30px] z-10">
         <a href="https://twitter.com/babymyro_xyz" target="_blank">
           <img src={X} className="w-[40px]" />
         </a>
         <a href="https://t.me/baby_myro" target="_blank">
-          <img src={TG} className="w-[40px]" />
+          <img src={TG} className="w-[40px] z-10" />
         </a>
       </div>
       <div className="w-full py-[32px] flex justify-start items-center text-[20px] font-400 border-t border-[#3d4148]">

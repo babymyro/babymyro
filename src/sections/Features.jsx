@@ -34,7 +34,7 @@ const Features = () => {
               <div>
                 <img src={Robo} className="w-[64px]" />
               </div>
-              <div className="text-[36px] font-[700]">Myro Buy Bot</div>
+              <div className="text-[36px] font-[700]">BABYMyro Buy Bot</div>
               <div className="text-[20px] font-[400] mb-[30px]">
                 Solana's first public BuyBot on Telegram. Promoting
                 cross-pollination and offering free exposure through "MYRO
@@ -45,7 +45,7 @@ const Features = () => {
               </div>
             </div>
             <a
-              href="/"
+              href="https://t.me/babymyrobot"
               target="_blank"
               className="bg-white py-[12px] px-[20px] text-black rounded-3xl text-[20px] font-[500] max-w-fit"
             >

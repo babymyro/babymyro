@@ -5,7 +5,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const Tokenomics = () => {
-const token = '3fsa453asetr23w...'
+const token = '3fLxCsAz1YmG39hv7x5Q1m32agP4RAi3T4nmQ7bE3HgJ'
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {

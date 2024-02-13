@@ -31,7 +31,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="w-full py-[32px] flex justify-start items-center text-[20px] font-400 border-t border-[#3d4148]">
-      © 2023 Myro • All Rights Reserved
+      © 2024 Myro • All Rights Reserved
       </div>
     </div>
   );

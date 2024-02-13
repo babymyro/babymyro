@@ -20,7 +20,7 @@ const Social = () => {
         data-aos="zoom-in"
       >
         <div className="text-[40px] lg:text-[72px] font-[700]">
-          Follow MYRO on <br /> social media
+          Follow BABYMYRO on <br /> social media
         </div>
         <br />
         <div className="flex gap-[32px]">

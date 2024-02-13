@@ -20,16 +20,16 @@ const About = () => {
         <div className="text-[32px] lg:text-[72px] font-[700]">About $BABYMYRO</div>
         <br/>
         <div className="text-base lg:text-[20px] font-[400]">
-          Many may ask, what is Myro? Myro is the name of the dog owned by Raj
+          Many may ask, what is BABYMYRO? BABYMYRO is the name of the dog owned by Raj
           Gokal, one of the co-founders of Solana. This project pays homage to
           him, and his dog, and responds to the popular demand for dog-based
-          narratives in the crypto space. Myro was created in response to this
+          narratives in the crypto space. BABYMYRO was created in response to this
           demand, and to provide value to the ecosystem created by Raj and his
           partner — the Solana blockchain.
           <br className="hidden lg:inline-block"/>
           <br />
           <br />
-          Myro is more than just a cryptocurrency, it is also a movement. We
+          BABYMYRO is more than just a cryptocurrency, it is also a movement. We
           believe that Solana has the potential to change the world for the
           better, and we are committed to making it more inclusive and welcoming
           for everyone.

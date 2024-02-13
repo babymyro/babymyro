@@ -7,6 +7,9 @@ export default {
 
   theme: {
     extend: {},
+    fontFamily:{
+      custom:['Grandstander', 'sans-serif']
+    }
   },
   plugins: [],
 }

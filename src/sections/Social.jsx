@@ -11,7 +11,7 @@ const Social = () => {
   }, []);
 
   return (
-    <div className="flex flex-col lg:flex-row justify-around lg:justify-around items-center lg:items-start px-[20px] mb-[150px] lg:mb-[240px]">
+    <div className="flex flex-col lg:flex-row justify-around lg:justify-around items-center lg:items-start px-[20px] mb-[150px] lg:mb-[240px]" id="social">
       <div data-aos="zoom-in">
         <img src={Image} />
       </div>

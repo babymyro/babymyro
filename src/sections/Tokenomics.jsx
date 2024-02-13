@@ -20,7 +20,7 @@ const token = '3fsa453asetr23w...'
 
 
   return (
-    <div className="w-full flex flex-col justify-start items-start font-custom gap-[26px] mb-[150px] lg:mb-[300px]" data-aos="zoom-in" >
+    <div className="w-full flex flex-col justify-start items-start font-custom gap-[26px] mb-[150px] lg:mb-[300px]" data-aos="zoom-in" id="Tokenomics">
       <div className="flex justify-start items-center gap-[35px]">
         <div className="text-[36px] lg:text-[72px] font-[700]">Tokenomics</div>
         <div>

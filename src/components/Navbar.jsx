@@ -21,14 +21,24 @@ const Navbar = () => {
           <img src={NavLogo} className="w-[200px]" />
         </a>
         <div className="flex justify-end flex-1 items-center gap-[64px]">
-          <div className="font-custom font-[400] text-[20px]">Home</div>
-          <div className="font-custom font-[400] text-[20px]">About</div>
-          <div className="font-custom font-[400] text-[20px]">Tokenomics</div>
-          <div className="font-custom font-[400] text-[20px]">Whitepaper</div>
-          <div className="font-custom font-[400] text-[20px]">Socials</div>
-          <div className="font-custom font-[400] text-[20px] border-2 border-white rounded-2xl py-[10px] px-[20px]">
-            Join the community
+          <Link to="Home" smooth={true} offset={200} duration={1000} className="font-custom font-[400] text-[20px]">
+            Home
+          </Link>
+          <Link to="About" smooth={true} offset={200} duration={1000} className="font-custom font-[400] text-[20px]">
+            About
+          </Link>
+          <Link to="Tokenomics" smooth={true} offset={200} duration={1000} className="font-custom font-[400] text-[20px]">
+            Tokenomics
+          </Link>
+          <div className="font-custom font-[400] text-[20px]">
+            Whitepaper
           </div>
+          <Link to="social" smooth={true} offset={200} duration={1000} className="font-custom font-[400] text-[20px]">
+            Socials
+          </Link>
+          <a className="font-custom font-[400] text-[20px] border-2 border-white rounded-2xl py-[10px] px-[20px]" href="https://t.me/baby_myro" target="_blank">
+            Join the community
+          </a>
         </div>
       </div>
       <div className="flex lg:hidden justify-between items-center relative px-[20px] z-10">
@@ -50,18 +60,18 @@ const Navbar = () => {
         {menu && (
           <div className="absolute  w-full left-0 rounded-b-3xl border-b-4 border-white top-[115px] px-[18px] bg-gradient-to-b from-[#ffffff59] to-[#ffffff96] mobNav">
             <div className="flex flex-col justify-center flex-1 items-start gap-[20px]">
-              <div className="font-custom font-[400] text-[36px]">Home</div>
-              <div className="font-custom font-[400] text-[36px]">About</div>
-              <div className="font-custom font-[400] text-[36px]">
+              <Link to="Home" smooth={true} offset={200} duration={1000}  className="font-custom font-[400] text-[36px]">Home</Link>
+              <Link to="About" smooth={true} offset={200} duration={1000}  className="font-custom font-[400] text-[36px]">About</Link>
+              <Link to="Tokenomics" smooth={true} offset={200} duration={1000}  className="font-custom font-[400] text-[36px]">
                 Tokenomics
-              </div>
+              </Link>
               <div className="font-custom font-[400] text-[36px]">
                 Whitepaper
               </div>
-              <div className="font-custom font-[400] text-[36px]">Socials</div>
-              <div className="font-custom font-[400] text-[20px] border-2 self-center border-white rounded-2xl py-[10px] px-[20px]">
+              <Link to="social" smooth={true} offset={200} duration={1000}  className="font-custom font-[400] text-[36px]">Socials</Link>
+              <a className="font-custom font-[400] text-[20px] border-2 self-center border-white rounded-2xl py-[10px] px-[20px]" href="https://t.me/baby_myro" target="_blank"> 
                 Join the community
-              </div>
+              </a>
             </div>
             <br />
             <div className="flex justify-center items-center  gap-[32px] mb-[30px]">

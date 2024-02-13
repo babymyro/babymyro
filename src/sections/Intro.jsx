@@ -12,7 +12,7 @@ const Intro = () => {
   }, []);
 
   return (
-    <div className="flex flex-col realtive mt-[205px] mb-[100px] lg:mb-[200px] xl:mb-[419px]">
+    <div className="flex flex-col realtive mt-[205px] mb-[100px] lg:mb-[200px] xl:mb-[419px]" id="Home">
       {/* ------- Hero Section Image at Left ------ */}
       <img
         src={Image}

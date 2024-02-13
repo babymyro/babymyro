@@ -22,7 +22,7 @@ const Why = () => {
             <img src={DOG} className="w-[200px]"/>
           </div>
           <div>
-            Myro is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
+            BABYMYRO is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
             dog, becoming a staple in the Solana memecoin space.
           </div>
         </div>
@@ -31,7 +31,7 @@ const Why = () => {
             <img src={Choose_2} className="w-[200px]"/>
           </div>
           <div>
-            Myro is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
+            BABYMYRO is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
             dog, becoming a staple in the Solana memecoin space.
           </div>
         </div>
@@ -40,7 +40,7 @@ const Why = () => {
             <img src={Choose_3} className="w-[200px]"/>
           </div>
           <div>
-            Myro is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
+            BABYMYRO is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
             dog, becoming a staple in the Solana memecoin space.
           </div>
         </div>
@@ -49,7 +49,7 @@ const Why = () => {
             <img src={Choose_4} className="w-[200px]"/>
           </div>
           <div>
-            Myro is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
+            BABYMYRO is a viral narrative based on Solana Co-Founder Raj Gokal’s pet
             dog, becoming a staple in the Solana memecoin space.
           </div>
         </div>

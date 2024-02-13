@@ -22,13 +22,13 @@ const Comment = () => {
             className="text-base lg:text-[20px] text-[400] w-[calc(100%-64px)]"
             data-aos="zoom-in"
           >
-            With Myro, we have created a revolutionary digital currency that is
+            With BABYMYRO, we have created a revolutionary digital currency that is
             designed for simplicity, security, and accessibility.
             <br className="hidden lg:inline-block"/>
             <br />
             <br />
             Our goal is to provide a seamless crypto experience for everyone.
-            Whether you are an experienced trader or a curious beginner, Myro is
+            Whether you are an experienced trader or a curious beginner, BABYMYRO is
             here to meet your needs and assist you in exploring the world of
             digital currencies.
           </div>

@@ -37,7 +37,7 @@ const Features = () => {
               <div className="text-[36px] font-[700]">BABYMyro Buy Bot</div>
               <div className="text-[20px] font-[400] mb-[30px]">
                 Solana's first public BuyBot on Telegram. Promoting
-                cross-pollination and offering free exposure through "MYRO
+                cross-pollination and offering free exposure through "BABYMYRO
                 Trending". As adoption grows, a small fee for trending will be
                 introduced, with a chance for free inclusion. Generated revenue
                 feeds into the Treat Jar (Treasury) for transparency,
@@ -63,7 +63,7 @@ const Features = () => {
               <div>
                 <img src={Stake} className="w-[64px]" />
               </div>
-              <div className="text-[36px] font-[700]">Myro Staking</div>
+              <div className="text-[36px] font-[700]">BABYMYRO Staking</div>
               <div className="text-[20px] font-[400] mb-[30px]">
                 Unlock the full potential of your $BABYMYRO investment with our
                 Staking Pool Utility. Seamlessly stake your coins, earn

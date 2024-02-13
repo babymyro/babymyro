@@ -15,9 +15,9 @@ const Footer = () => {
       <div className="mb-[31px] max-w-[771px] flex flex-col text-center lg:text-left lg:flex-row justify-center items-center lg:justify-start gap-[64px] text-[16px] font-[300]">
         <img src={MyroPic} className="w-[217px]" />
         <div>
-          MYRO is more than just a cryptocurrency, it is also a way to connect
+          BABYMYRO is more than just a cryptocurrency, it is also a way to connect
           with other dog meme lovers and make a difference in the world. Join
-          the MYRO movement today and help us make the world a more fun and
+          the BABYMYRO movement today and help us make the world a more fun and
           inclusive place for everyone!
         </div>
       </div>
@@ -31,7 +31,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="w-full py-[32px] flex justify-start items-center text-[20px] font-400 border-t border-[#3d4148]">
-      © 2024 Myro • All Rights Reserved
+      © 2024 BABYMYRO • All Rights Reserved
       </div>
     </div>
   );

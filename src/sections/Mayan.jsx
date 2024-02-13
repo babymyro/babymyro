@@ -37,7 +37,15 @@ const Mayan = () => {
       </div>
       <div className="min-w-[360px]">
         {/* <img src={Image} /> */}
-        <MayanWallet />
+        {/* <MayanWallet /> */}
+
+        <iframe
+        width="400"
+        height="600"
+        className="rounded-2xl"
+        src="https://swap.mayan.finance/"
+      ></iframe>
+
       </div>
     </div>
   );

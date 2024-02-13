@@ -34,12 +34,10 @@ const Features = () => {
               <div>
                 <img src={Robo} className="w-[64px]" />
               </div>
-              <div className="text-[36px] font-[700]">BABYMyro Buy Bot</div>
+              <div className="text-[36px] font-[700]">BABYMYRO SOL Bot</div>
               <div className="text-[20px] font-[400] mb-[30px]">
                 Solana's first public BuyBot on Telegram. Promoting
-                cross-pollination and offering free exposure through "BABYMYRO
-                Trending". As adoption grows, a small fee for trending will be
-                introduced, with a chance for free inclusion. Generated revenue
+                cross-pollination and offering free exposure through "BABYMYRO Trending". As adoption grows, a small fee for trending will be introduced, with a chance for free inclusion. Generated revenue
                 feeds into the Treat Jar (Treasury) for transparency,
                 contributing to $BABYMYRO's growth.
               </div>
@@ -50,7 +48,7 @@ const Features = () => {
               className="bg-white py-[12px] px-[20px] text-black rounded-3xl text-[20px] font-[500] max-w-fit"
             >
               <span className="flex gap-[10px] items-center justify-center">
-                Buy on Jupiter <img src={GoTo} />
+                Solona Bot <img src={GoTo} />
               </span>
             </a>
           </div>

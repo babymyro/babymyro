@@ -30,9 +30,9 @@ const Navbar = () => {
           <Link to="Tokenomics" smooth={true} offset={200} duration={1000} className="font-custom font-[400] text-[20px]">
             Tokenomics
           </Link>
-          <div className="font-custom font-[400] text-[20px]">
+          <a href="https://baby-myro-2.gitbook.io/" target="_blank" className="font-custom font-[400] text-[20px]">
             Whitepaper
-          </div>
+          </a>
           <Link to="social" smooth={true} offset={200} duration={1000} className="font-custom font-[400] text-[20px]">
             Socials
           </Link>

@@ -74,7 +74,7 @@ const FAQ = () => {
             />
           </div>
           <div className="invisible h-auto max-h-0 items-center opacity-0 transition-all group-focus:visible group-focus:max-h-screen group-focus:opacity-100 group-focus:duration-1000 text-[20px] font-[400]">
-            Yes, you can view our whitepaper
+            Yes, you can view our whitepaper <a href="https://baby-myro-2.gitbook.io/" className="text-[#234d60] text-[22px] underline" target="_blank"> here </a>
           </div>
         </div>
       </div>

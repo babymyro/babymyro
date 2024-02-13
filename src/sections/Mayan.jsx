@@ -1,12 +1,23 @@
-import React, { useEffect } from "react";
-import Image from "/src/assets/images/myro_img.png";
+import React, { useEffect, useState } from "react";
+// import Image from "/src/assets/images/myro_img.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import MayanWallet from "../components/MayanWallet";
+
 
 const Mayan = () => {
   useEffect(() => {
     AOS.init();
   }, []);
+
+  // const [mayanDrop, setMayanDrop] = useState(false);
+
+  // const openmayanDrop = () => {
+  //   setMayanDrop(!mayanDrop);
+  // };
+  // const closemayanDrop = () => {
+  //   setMayanDrop(!mayanDrop);
+  // };
 
   return (
     <div className="block m-auto lg:m-0 lg:flex justify-around items-start px-[20px] mb-[100px] lg:mb-[200px]">
@@ -24,8 +35,9 @@ const Mayan = () => {
           Solana chain to buy $BABYMYRO. Low fees, cross chain.
         </div>
       </div>
-      <div>
-        <img src={Image} />
+      <div className="min-w-[360px]">
+        {/* <img src={Image} /> */}
+        <MayanWallet />
       </div>
     </div>
   );

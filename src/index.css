@@ -71,3 +71,7 @@
   transition: .3s all;
   transform: translateX(0%);
 }
+
+.mayanBack{
+  background: linear-gradient(130.38deg, #535884 -58.7%, #000102 98.1%);
+}

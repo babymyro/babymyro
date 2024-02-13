@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Image from "/src/assets/images/jupiter_img.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import JupiterWallet from "../components/JupiterWallet";
 
 const Jupiter = () => {
   useEffect(() => {
@@ -20,12 +21,13 @@ const Jupiter = () => {
         <br />
         <br />
         <div className="text-base lg:text-[20px] font-[400]">
-        Already have $SOL in your wallet? Swap using Jupiter below. 
+          Already have $SOL in your wallet? Swap using Jupiter below.
         </div>
       </div>
-        <div>
-          <img src={Image} />
-        </div>
+      <div className="min-w-[400px]">
+        {/* <img src={Image} /> */}
+        <JupiterWallet />
+      </div>
     </div>
   );
 };

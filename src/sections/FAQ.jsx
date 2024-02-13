@@ -26,9 +26,9 @@ const FAQ = () => {
           tabIndex="1"
         >
           <div className="flex cursor-pointer items-center justify-between">
-            <span className="text-[36px] font-[700]">
+            <span className="text-[32px] font-[700]">
               {" "}
-              How do I Buy and Sell $MYRO?{" "}
+              How do I Buy and Sell $BABYMYRO?{" "}
             </span>
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/9/96/Chevron-icon-drop-down-menu-WHITE.png"
@@ -36,7 +36,7 @@ const FAQ = () => {
             />
           </div>
           <div className="invisible h-auto max-h-0 items-center opacity-0 transition-all group-focus:visible group-focus:max-h-screen group-focus:opacity-100 group-focus:duration-1000 text-[20px] font-[400]">
-            You can trade $MYRO on any of our listed Centralised Exchanges, or
+            You can trade $BABYMYRO on any of our listed Centralised Exchanges, or
             on Decentralised Exchanges like Jupiter and Raydium.
           </div>
         </div>
@@ -46,8 +46,8 @@ const FAQ = () => {
           tabIndex="2"
         >
           <div className="flex cursor-pointer items-center justify-between">
-            <span className="text-[36px] font-[700]">
-              Will $MYRO list on more CEX`s?
+            <span className="text-[32px] font-[700]">
+              Will $BABYMYRO list on more CEX`s?
             </span>
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/9/96/Chevron-icon-drop-down-menu-WHITE.png"
@@ -55,7 +55,7 @@ const FAQ = () => {
             />
           </div>
           <div className="invisible h-auto max-h-0 items-center opacity-0 transition-all group-focus:visible group-focus:max-h-screen group-focus:opacity-100 group-focus:duration-1000 text-[20px] font-[400]">
-            Yes. $MYRO will be listed on most major worldwide exchanges.
+            Yes. $BABYMYRO will be listed on most major worldwide exchanges.
           </div>
         </div>
 
@@ -64,9 +64,9 @@ const FAQ = () => {
           tabIndex="3"
         >
           <div className="flex cursor-pointer items-center justify-between">
-            <span className="text-[36px] font-[700]">
+            <span className="text-[32px] font-[700]">
               {" "}
-              Is there a $MYRO whitepaper / roadmap?{" "}
+              Is there a $BABYMYRO whitepaper / roadmap?{" "}
             </span>
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/9/96/Chevron-icon-drop-down-menu-WHITE.png"

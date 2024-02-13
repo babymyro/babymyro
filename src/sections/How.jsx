@@ -19,14 +19,14 @@ const How = () => {
         data-aos="zoom-in"
       >
         <div className="text-[72px] font-[700]">
-          How to Buy <br /> $MYRO
+          How to Buy <br /> $BABYMYRO
         </div>
         <br />
         <div className="text-[20px] font-[400]">
-          You can purchase $MYRO in various different ways. We reccomend
+          You can purchase $BABYMYRO in various different ways. We reccomend
           downloading Phantom Wallet, purchasing SOL, sending it to your phantom
           address and swapping using Phantom's in-app wallet, or on a
-          decentralised exchange like Jupiter. You can purchase $MYRO multichain
+          decentralised exchange like Jupiter. You can purchase $BABYMYRO multichain
           using our integreated Mayan swap, or swap using Jupiter if you already
           own some $SOL.
           <br />

@@ -17,7 +17,7 @@ const About = () => {
         <img src={Image} />
       </div>
       <div className="flex flex-col justify-start items-start font-custom lg:w-[41vw] lg:mt-o" data-aos="zoom-in">
-        <div className="text-[36px] lg:text-[72px] font-[700]">About $MYRO</div>
+        <div className="text-[32px] lg:text-[72px] font-[700]">About $BABYMYRO</div>
         <br/>
         <div className="text-base lg:text-[20px] font-[400]">
           Many may ask, what is Myro? Myro is the name of the dog owned by Raj

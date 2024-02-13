@@ -21,7 +21,7 @@ const Mayan = () => {
         <br />
         <div className="text-base lg:text-[20px] font-[400]">
           Want to buy cross-chain? Swap seamlessly from ETH, BSC, ARB, AVAX or
-          Solana chain to buy $MYRO. Low fees, cross chain.
+          Solana chain to buy $BABYMYRO. Low fees, cross chain.
         </div>
       </div>
       <div>

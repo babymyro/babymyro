@@ -30,7 +30,7 @@ const token = '3fsa453asetr23w...'
       <div className="w-full flex flex-col lg:flex-row px-[15px] lg:px-0 justify-between gap-[32px] items-center">
         <div className="flex flex-1 justify-between p-[32px] items-center w-full lg:w-auto border-4 border-white rounded-3xl">
           <div className="font-[700] text-[26px]">Symbol</div>
-          <div className="font-[300] text-[20px]">$MYRO</div>
+          <div className="font-[300] text-[20px]">$BABYMYRO</div>
         </div>
         <div className="flex flex-1 justify-between p-[32px] items-center w-full lg:w-auto border-4 border-white rounded-3xl">
           <div className="font-[700] text-[26px]">Tax</div>

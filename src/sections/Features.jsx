@@ -41,7 +41,7 @@ const Features = () => {
                 Trending". As adoption grows, a small fee for trending will be
                 introduced, with a chance for free inclusion. Generated revenue
                 feeds into the Treat Jar (Treasury) for transparency,
-                contributing to $MYRO's growth.
+                contributing to $BABYMYRO's growth.
               </div>
             </div>
             <a
@@ -65,7 +65,7 @@ const Features = () => {
               </div>
               <div className="text-[36px] font-[700]">Myro Staking</div>
               <div className="text-[20px] font-[400] mb-[30px]">
-                Unlock the full potential of your $MYRO investment with our
+                Unlock the full potential of your $BABYMYRO investment with our
                 Staking Pool Utility. Seamlessly stake your coins, earn
                 sustainable rewards, and contribute to Solana's
                 decentralization. User-friendly and secure, it's the hassle-free
@@ -93,7 +93,7 @@ const Features = () => {
               </div>
               <div className="text-[36px] font-[700]">Further Utilities</div>
               <div className="text-[20px] font-[400] mb-[30px]">
-                $MYRO is set to transform the Solana ecosystem, delivering
+                $BABYMYRO is set to transform the Solana ecosystem, delivering
                 essential utilities for the evolving needs of users. Our
                 commitment ensures a dynamic contribution to Solana's long-term
                 growth, serving hundreds of thousands of users.

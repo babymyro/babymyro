@@ -32,12 +32,12 @@ const How = () => {
           <br />
           <br />
           <a
-            href="https://phantom.app/"
+            href="https://beta.pinksale.finance/solana/launchpad/2anJsZzLrmxpvK96PMwUTyAbrV7GuEPaeWkmvPbe72rg"
             target="_blank"
             className="bg-black py-[12px] px-[20px] text-white rounded-3xl flex gap-[10px] border-white border-2 max-w-fit"
           >
             <span className="flex gap-[10px] items-center justify-center">
-              Buy on Jupiter <img src={GoTo} />
+              Buy on PinkSale <img src={GoTo} />
             </span>
           </a>
         </div>

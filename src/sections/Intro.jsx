@@ -49,12 +49,12 @@ const Intro = () => {
         data-aos="zoom-in"
       >
         <a
-          href="https://jup.ag/swap/SOL-HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4"
+          href="https://beta.pinksale.finance/solana/launchpad/2anJsZzLrmxpvK96PMwUTyAbrV7GuEPaeWkmvPbe72rg"
           target="_blank"
           className="bg-white py-[10px] px-[16px] lg:py-[12px] lg:px-[20px] text-black rounded-3xl"
         >
           <span className="flex gap-[10px] items-center justify-center">
-            Buy on Jupiter <img src={GoTo} />
+            Buy on PinkSale <img src={GoTo} />
           </span>
         </a>
         <a
